@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-13T15:40:22.704Z</updated>
+  <updated>2020-06-13T15:41:37.669Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/02/18/test/"/>
     <id>http://yoursite.com/2020/02/18/test/</id>
     <published>2020-02-18T15:38:59.000Z</published>
-    <updated>2020-06-13T15:40:22.704Z</updated>
+    <updated>2020-06-13T15:41:37.669Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>此博客已停止更新。</p></blockquote><p>新博客地址：<a href="http：//blog.soarless.com">Soarless的个人博客</a></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>此博客已停止更新。</p></blockquote><p>新博客地址：<a href="http://blog.soarless.com" target="_blank" rel="noopener">Soarless的个人博客</a></p>]]></content>
     
     <summary type="html">
     
@@ -32,8 +32,7 @@
         &lt;blockquote&gt;
 &lt;p&gt;此博客已停止更新。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;新博客地址：&lt;a href=&quot;http：//blog.soarless.com&quot;&gt;Soarless的个人博客&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;新博客地址：&lt;a href=&quot;http://blog.soarless.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Soarless的个人博客&lt;/a&gt;&lt;/p&gt;
       
     
     </summary>
