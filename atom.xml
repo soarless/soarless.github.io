@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-13T10:17:49.109Z</updated>
+  <updated>2020-06-13T15:28:34.829Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,20 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
+    <title>本博客已弃置</title>
     <link href="http://yoursite.com/2020/02/18/test/"/>
     <id>http://yoursite.com/2020/02/18/test/</id>
     <published>2020-02-18T15:38:59.000Z</published>
-    <updated>2020-04-13T10:17:49.109Z</updated>
+    <updated>2020-06-13T15:28:34.829Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>傻逼</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>新博客地址：blog.soarless.com</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
         &lt;blockquote&gt;
-&lt;p&gt;傻逼&lt;/p&gt;
+&lt;p&gt;新博客地址：blog.soarless.com&lt;/p&gt;
 &lt;/blockquote&gt;
 
       
